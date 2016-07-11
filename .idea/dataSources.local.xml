@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Django default" uuid="4cf93c58-2ca8-43d2-ad5b-645f95547765">
+      <secret-storage>memory</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>projet_bonplan.*</schema-pattern>
+      <default-schemas>projet_bonplan.*</default-schemas>
+    </data-source>
+  </component>
+</project>
